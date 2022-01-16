@@ -1,0 +1,9 @@
+name: typedef
+description: Defines basic type aliases
+version: 1.0.0
+homepage: https://github.com/Jerome-Saltmarsh
+
+environment:
+  sdk: '>=2.14.3 <3.0.0'
+
+
