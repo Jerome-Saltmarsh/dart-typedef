@@ -1,2 +1,4 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+#Purpose
+Make it easy to import basic type definitions into your project
+
+Please feel free to contribute more definitions 
