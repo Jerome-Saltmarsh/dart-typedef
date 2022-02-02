@@ -1,6 +1,6 @@
 name: typedef
 description: Defines basic type aliases
-version: 1.0.1
+version: 1.0.4
 homepage: https://github.com/Jerome-Saltmarsh
 
 environment:
